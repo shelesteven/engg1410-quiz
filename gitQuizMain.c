@@ -13,7 +13,7 @@ int main(void)
     }
     else
     {
-        printf("You don't know how to use Git!");
+        printf("You do not know how to use Git!");
     }
 
     printf("\n");
